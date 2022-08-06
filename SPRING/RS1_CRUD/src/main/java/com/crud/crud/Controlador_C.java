@@ -25,9 +25,5 @@ public class Controlador_C {
         user=String.valueOf(person);
         return user;
     }
-    @GetMapping("/useradd")
-    public String getPersona(){
-
-        return user+"BIEN!";
-    } */
+*/
 }
