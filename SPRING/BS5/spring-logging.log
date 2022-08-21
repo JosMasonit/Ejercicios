@@ -1,5 +1,0 @@
-2022-07-20 12:08:07.378  INFO 3584 --- [main] com.BS5.BS5.Bs5Application               : Starting Bs5Application using Java 18.0.1.1 on L2203095 with PID 3584 (C:\Users\josemanuel.santo\Documents\BOSONIT\formacion_BACKEND\SPRING\BS5\target\classes started by josemanuel.santo in C:\Users\josemanuel.santo\Documents\BOSONIT\formacion_BACKEND\SPRING\BS5)
-2022-07-20 12:08:07.381 DEBUG 3584 --- [main] com.BS5.BS5.Bs5Application               : Running with Spring Boot v2.7.1, Spring v5.3.21
-2022-07-20 12:08:07.381  INFO 3584 --- [main] com.BS5.BS5.Bs5Application               : No active profile set, falling back to 1 default profile: "default"
-2022-07-20 12:08:08.375  INFO 3584 --- [main] com.BS5.BS5.Controlador1                 : MENSAJE DE PRUEBA DESDE EL Controlador1
-2022-07-20 12:08:08.620  INFO 3584 --- [main] com.BS5.BS5.Bs5Application               : Started Bs5Application in 1.642 seconds (JVM running for 1.942)
