@@ -1,0 +1,37 @@
+2022-07-20 12:58:15,321 INFO org.springframework.boot.web.embedded.tomcat.TomcatWebServer [main] Tomcat initialized with port(s): 8080 (http)
+2022-07-20 12:58:15,330 INFO org.apache.juli.logging.DirectJDKLog [main] Initializing ProtocolHandler ["http-nio-8080"]
+2022-07-20 12:58:15,331 INFO org.apache.juli.logging.DirectJDKLog [main] Starting service [Tomcat]
+2022-07-20 12:58:15,331 INFO org.apache.juli.logging.DirectJDKLog [main] Starting Servlet engine: [Apache Tomcat/9.0.64]
+2022-07-20 12:58:15,402 INFO org.apache.juli.logging.DirectJDKLog [main] Initializing Spring embedded WebApplicationContext
+2022-07-20 12:58:15,412 INFO org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext [main] Root WebApplicationContext: initialization completed in 972 ms
+2022-07-20 12:58:15,729 INFO org.apache.juli.logging.DirectJDKLog [main] Starting ProtocolHandler ["http-nio-8080"]
+2022-07-20 12:58:15,749 INFO org.springframework.boot.web.embedded.tomcat.TomcatWebServer [main] Tomcat started on port(s): 8080 (http) with context path ''
+2022-07-20 12:59:11,822 INFO org.springframework.boot.StartupInfoLogger [main] Starting Bs5Application using Java 18.0.1.1 on L2203095 with PID 19628 (C:\Users\josemanuel.santo\Documents\BOSONIT\formacion_BACKEND\SPRING\BS5\target\classes started by josemanuel.santo in C:\Users\josemanuel.santo\Documents\BOSONIT\formacion_BACKEND\SPRING\BS5)
+2022-07-20 12:59:11,826 DEBUG org.springframework.boot.StartupInfoLogger [main] Running with Spring Boot v2.7.1, Spring v5.3.21
+2022-07-20 12:59:11,827 INFO org.springframework.boot.SpringApplication [main] No active profile set, falling back to 1 default profile: "default"
+2022-07-20 12:59:12,661 INFO org.springframework.boot.web.embedded.tomcat.TomcatWebServer [main] Tomcat initialized with port(s): 8080 (http)
+2022-07-20 12:59:12,669 INFO org.apache.juli.logging.DirectJDKLog [main] Initializing ProtocolHandler ["http-nio-8080"]
+2022-07-20 12:59:12,670 INFO org.apache.juli.logging.DirectJDKLog [main] Starting service [Tomcat]
+2022-07-20 12:59:12,671 INFO org.apache.juli.logging.DirectJDKLog [main] Starting Servlet engine: [Apache Tomcat/9.0.64]
+2022-07-20 12:59:12,737 INFO org.apache.juli.logging.DirectJDKLog [main] Initializing Spring embedded WebApplicationContext
+2022-07-20 12:59:12,737 INFO org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext [main] Root WebApplicationContext: initialization completed in 858 ms
+2022-07-20 12:59:12,775 INFO com.BS5.BS5.Controlador1 [main] MENSAJE DE PRUEBA DESDE EL Controlador1
+2022-07-20 12:59:13,014 INFO org.apache.juli.logging.DirectJDKLog [main] Starting ProtocolHandler ["http-nio-8080"]
+2022-07-20 12:59:13,032 INFO org.springframework.boot.web.embedded.tomcat.TomcatWebServer [main] Tomcat started on port(s): 8080 (http) with context path ''
+2022-07-20 12:59:13,039 INFO org.springframework.boot.StartupInfoLogger [main] Started Bs5Application in 1.632 seconds (JVM running for 1.933)
+2022-07-20 13:00:39,488 INFO org.springframework.boot.StartupInfoLogger [main] Starting Bs5Application using Java 18.0.1.1 on L2203095 with PID 15292 (C:\Users\josemanuel.santo\Documents\BOSONIT\formacion_BACKEND\SPRING\BS5\target\classes started by josemanuel.santo in C:\Users\josemanuel.santo\Documents\BOSONIT\formacion_BACKEND\SPRING\BS5)
+2022-07-20 13:00:39,492 DEBUG org.springframework.boot.StartupInfoLogger [main] Running with Spring Boot v2.7.1, Spring v5.3.21
+2022-07-20 13:00:39,493 INFO org.springframework.boot.SpringApplication [main] No active profile set, falling back to 1 default profile: "default"
+2022-07-20 13:00:40,368 INFO org.springframework.boot.web.embedded.tomcat.TomcatWebServer [main] Tomcat initialized with port(s): 8080 (http)
+2022-07-20 13:00:40,381 INFO org.apache.juli.logging.DirectJDKLog [main] Initializing ProtocolHandler ["http-nio-8080"]
+2022-07-20 13:00:40,382 INFO org.apache.juli.logging.DirectJDKLog [main] Starting service [Tomcat]
+2022-07-20 13:00:40,382 INFO org.apache.juli.logging.DirectJDKLog [main] Starting Servlet engine: [Apache Tomcat/9.0.64]
+2022-07-20 13:00:40,459 INFO org.apache.juli.logging.DirectJDKLog [main] Initializing Spring embedded WebApplicationContext
+2022-07-20 13:00:40,460 INFO org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext [main] Root WebApplicationContext: initialization completed in 911 ms
+2022-07-20 13:00:40,507 INFO com.BS5.BS5.Controlador1 [main] MENSAJE DE PRUEBA DESDE EL Controlador1
+2022-07-20 13:00:40,756 INFO org.apache.juli.logging.DirectJDKLog [main] Starting ProtocolHandler ["http-nio-8080"]
+2022-07-20 13:00:40,772 INFO org.springframework.boot.web.embedded.tomcat.TomcatWebServer [main] Tomcat started on port(s): 8080 (http) with context path ''
+2022-07-20 13:00:40,780 INFO org.springframework.boot.StartupInfoLogger [main] Started Bs5Application in 1.695 seconds (JVM running for 2.002)
+2022-07-20 13:01:36,941 INFO org.springframework.boot.StartupInfoLogger [main] Starting Bs5Application using Java 18.0.1.1 on L2203095 with PID 13080 (C:\Users\josemanuel.santo\Documents\BOSONIT\formacion_BACKEND\SPRING\BS5\target\classes started by josemanuel.santo in C:\Users\josemanuel.santo\Documents\BOSONIT\formacion_BACKEND\SPRING\BS5)
+2022-07-20 13:01:36,945 DEBUG org.springframework.boot.StartupInfoLogger [main] Running with Spring Boot v2.7.1, Spring v5.3.21
+2022-07-20 13:01:36,945 INFO org.springframework.boot.SpringApplication [main] No active profile set, falling back to 1 default profile: "default"
